@@ -1,2 +1,2 @@
 # netcore-spatial
-Geolocatin Spatial Data with .NET Core and PostgreSQL
+Geolocation Spatial Data with .NET Core and PostgreSQL
